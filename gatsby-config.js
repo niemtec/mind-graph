@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/mind-graph",
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        contentPath: `${__dirname}/content/garden`,
+        contentPath: `${__dirname}/content`,
         rootNote: `/hello`,
       },
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Mind Graph`,
   },
 }
