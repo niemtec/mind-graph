@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/mind-graph",
+  pathPrefix: `mind-graph`,
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
@@ -11,5 +11,6 @@ module.exports = {
   ],
   siteMetadata: {
     title: `Mind Graph`,
+    siteUrl: `https://niemtec.com`
   },
 }
