@@ -7,3 +7,5 @@ title: "Hello!"
 Link to another note [[note]]
 
 This is some [[other-note]].
+
+Some other [[other-note]]
