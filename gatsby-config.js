@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `mind-graph`,
+  pathPrefix: `/mind-graph`,
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
