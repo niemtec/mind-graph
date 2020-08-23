@@ -10,7 +10,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Mind Graph`,
-    siteUrl: `https://niemtec.com`
+    title: "Mind Graph",
+    siteUrl: "https://niemtec.com"
   },
 }

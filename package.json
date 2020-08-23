@@ -10,12 +10,14 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
+    "gatsby": "^2.24.47",
+    "gatsby-remark-double-brackets-link": "^0.1.6",
     "gatsby-theme-garden": "^0.1.1",
-    "react": "^16.12.0",
+    "react": "^16.13.1",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "npm-check": "^5.9.2"
   }
 }

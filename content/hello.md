@@ -5,4 +5,5 @@ title: "Hello!"
 # Hello!
 
 Link to another note [[note]]
-[[hello]]
+
+This is some [[other-note]].
