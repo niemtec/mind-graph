@@ -1,8 +1,5 @@
 # Creat choices, make choices
 
-The creative process in a nutshell:
-![creative process](http://gordonbrander.com/media/IDEO_Diverge_Converge_Process.jpg)
-
 1. **Create choices**: this is a generative frame of mind. Suspend judgement and analysis. Breadth over depth. You're building up raw material. [[Brainstorming]] is a good tool here.
 2. **Make choices**: trim, edit, modularize, winnow, polish. This is a reductive frame of mind. Your goal is to take the raw material and form it into a polished concept.
 

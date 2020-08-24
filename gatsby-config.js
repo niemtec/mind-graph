@@ -5,13 +5,11 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/content`,
-        rootNote: `/hello`,
-        titleToURL: `/mind-graph`
+        rootNote: `/hello`
       },
     },
   ],
   siteMetadata: {
-    title: "Mind Graph",
-    siteUrl: "https://niemtec.com",
+    title: "Mind Graph"
   },
 }
