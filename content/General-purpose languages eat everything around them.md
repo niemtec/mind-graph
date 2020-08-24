@@ -1,7 +1,12 @@
+# General-purpose languages eat everything around them
+
 Given time, a [[Turing-complete language]] will eat every [[domain-specific language]] adjecent to it.
+
+
 Even on the web, where declerative, domain-specific languages had a 20 year head-start, JavaScript is eating HTML and CSS.
+
 Why? [[Turing-complete language]]s are [[universal machines]]:
-- They can replace any domain-specific language
+- They can replace any [[domain-specific language]]
 - They transfer optionality from the platform implementation to 3rd party developers
 
 ---

@@ -1,6 +1,6 @@
 # Fundamental Needs
 
-undamental needs are universal constraints. 
+Fundamental needs are universal constraints. 
 
 Gordon Brander's Predictions:
 - If a technology addresses a fundamental need, universal adoption is guaranteed. The only questions are "how fast"  and "who will build it"

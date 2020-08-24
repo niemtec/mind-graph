@@ -1,4 +1,4 @@
-# Clark's 3 Laws
+# Clark's Three Laws
 
 Arthur C Clarke's three laws of forecasting:
 1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
