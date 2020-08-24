@@ -6,7 +6,8 @@
   "editor.fontFamily": "Fira Code Retina, Fira Code, monospace",
   "workbench.colorTheme": "Gray Matter Dark",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": true,
+    "editor.lineNumbers": "off"
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
