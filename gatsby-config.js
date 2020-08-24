@@ -6,11 +6,12 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/content`,
         rootNote: `/hello`,
+        titleToURL: `/mind-graph`
       },
     },
   ],
   siteMetadata: {
     title: "Mind Graph",
-    siteUrl: "https://niemtec.com"
+    siteUrl: "https://niemtec.com",
   },
 }
