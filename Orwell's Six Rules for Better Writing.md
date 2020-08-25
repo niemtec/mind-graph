@@ -3,5 +3,5 @@
 2. Never use a long word where a short one will do.
 3. If it is possible to cut a word out, always cut it out.
 4. Never use the passive where you can use the active.
-5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday [[English]] equivalent.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything outright barbarous.
