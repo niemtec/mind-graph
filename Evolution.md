@@ -15,4 +15,4 @@ Evolution is a behaviour that emerges in any system that has:
 
 ---
 
-Evolving systems exist in [[Punctuated Equilibrium]].
+Evolving systems exist in [[Punctuated-Equilibrium]].

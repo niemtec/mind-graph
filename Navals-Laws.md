@@ -20,4 +20,4 @@
 - Mathematics is the language of nature
 - Every moment has to be complete in and of itself
 
-See Also: [[Learn to learn]], [[The Feynman Technique]]
+See Also: [[Learn-to-learn]], [[The-Feynman-Technique]]

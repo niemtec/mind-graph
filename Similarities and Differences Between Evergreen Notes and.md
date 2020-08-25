@@ -1,8 +1,8 @@
 # Similarities and Differences Between Evergreen Notes and Zettelkasten
-[[Evergreen Notes]] have been inspired by [[Niklas Luhmann]]’s [[Zettelkasten]] practice.
+[[Evergreen-Notes]] have been inspired by [[Niklas Luhmann]]’s [[Zettelkasten]] practice.
 
 ## Similarities:
-- [[Evergreen Notes]] are [[concept-oriented]]
+- [[Evergreen-Notes]] are [[concept-oriented]]
 - Atomicity, the notes should be [[atomic]]
 - Greater emphasis is placed on [[densely-linked]] notes
 - The [[notes should surprise you]]
@@ -10,5 +10,5 @@
 
 ## Differences:
 - Spaced repetition is a tool used to incrementally develop linkings between notes (digital notes can have greater freedom for updating linkages)
-- A “[[notes inbox]]” which is used to capture transient and incomplete notes to transition them into integrated [[Evergreen Notes]]
+- A “[[notes inbox]]” which is used to capture transient and incomplete notes to transition them into integrated [[Evergreen-Notes]]
 - Back links are used to implicitly define nodes

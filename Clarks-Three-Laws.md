@@ -9,4 +9,4 @@ Clarke's 2 hazards of forecasting:
 1. Failure of nerve
 2. Failure of imagination
 
-See: [[Shermer's Last Law]], [[Benevolence of AI]], [[Grey's Law]], [[Three Laws of Robotics]]
+See: [[Shermers-Last-Law]], [[Benevolence-of-AI]], [[Greys-Law]], [[Three-Laws-of-Robotics]]

@@ -2,4 +2,4 @@
 
 > Any sufficiently advanced act of benevolence is indistinguishable from malevolence
 
-See: [[Clark's Three Laws]], [[Shermer's Last Law]], [[Grey's Law]], [[Three Laws of Robotics]]
+See: [[Clarks-Three-Laws]], [[Shermers-Last-Law]], [[Greys-Law]], [[Three-Laws-of-Robotics]]
