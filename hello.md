@@ -9,9 +9,9 @@ The entries in this repository have no particular theme or focus, instead they a
 Whilst the general idea of these notes is to demonstrate how individual facts and notions connect, there might exist instances of smaller clusters of knowledge grouped together which are not directly accessible through links in existing notes. Here, the graph button is a useful tool to visualise the global structure of the content inside the repository.
 
 ## Recent Updates
- - [[The-Feynman-Technique]]
- - [[Intuition-is-pattern-recognition]]
- - [[Cascade-Failure]]
- - [[Evergreen-Notes]]
- - [[Digital-Garden]]
- - [[Almanacs]]
+-  [[The Feynman Technique]]
+-  [[Intuition is pattern recognition]]
+-  [[Cascade Failure]]
+-  [[Evergreen Notes]]
+-  [[Digital Garden]]
+- [[Almanacs]]

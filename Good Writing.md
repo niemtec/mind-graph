@@ -9,4 +9,4 @@ It's about thinking before writing and being conscious of what you aim to say an
 > Karl Philipp Moritz
 
 
-See Also: [[Orwells-Six-Rules-for-Better-Writing]], [[Good-Writing-is-Good-Thinking]]
+See Also: [[Orwells Six Rules for Better Writing]], [[Good Writing is Good Thinking]]

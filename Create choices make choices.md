@@ -9,7 +9,7 @@ This process is also sometimes called blue sky, brass tacks:
 
 **Blue sky**: what's the best outcome we can imagine? No limits, no constraints.
 
-**Brass tacks**: how do we get there? What are our constraints? What resources and tools do we have available? This is were you start planning, using methods like [[Charlie-Kindels-5-Ps]].
+**Brass tacks**: how do we get there? What are our constraints? What resources and tools do we have available? This is were you start planning, using methods like [[Charlie Kindels 5 Ps]].
 
 ---
 
@@ -23,4 +23,4 @@ Production **engineering** is typically a process of **making choices** for impl
 
 It's essential to know which stage of the process you're in, and whether to use a generative or a critical process. If you winnow before you sow, you'll have nothing to show.
 
-Also: [[Capture-organise-synthesize]]
+Also: [[Capture organise synthesize]]
