@@ -5,7 +5,7 @@ require("dotenv").config({
 });
 
 module.exports = {
-  pathPrefix: `/mind-graph`,
+  pathPrefix: `/gatsby-digital-garden`,
   siteMetadata: {
     title: `Mind Graph`,
   },
@@ -13,9 +13,9 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: `/hello`,
-        contentPath: `${__dirname}/atoms`,
+        rootNote: "/hello",
+        contentPath: `${__dirname}/atoms`
       },
     },
   ],
-}
+};

@@ -1,7 +1,9 @@
 {
-  "name": "Mind Graph",
-  "private": false,
+  "name": "gatsby-example-using-roamresearch",
+  "private": true,
+  "description": "Gatsby example site using the Roam Research source plugin",
   "version": "1.0.0",
+  "author": "Mathieu Dutour <mathieu@dutour.me>",
   "dependencies": {
     "gatsby": "^2.21.22",
     "gatsby-theme-garden": "^0.1.50",
