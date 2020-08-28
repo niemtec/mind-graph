@@ -7,8 +7,7 @@ const ReferencesBlock = ({ references }) => {
   const footer = (
     <React.Fragment>
       <p>
-        If you think this note resonated, be it positive or negative,{" "}
-        <a href="https://twitter.com/mathieudutour">ping me</a> on Twitter.
+        "An unexamined life is not worth living." - Socrates
       </p>
     </React.Fragment>
   );
