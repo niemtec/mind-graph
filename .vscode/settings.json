@@ -3,7 +3,9 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "editor.fontFamily": "Fira Code Retina, Fira Code, monospace",
+  "editor.fontFamily": "iA Writer Duo S, Fira Code Retina, Fira Code, monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
   "workbench.colorTheme": "Gray Matter Dark",
   "[markdown]": {
     "editor.quickSuggestions": true,
@@ -12,9 +14,14 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "files.exclude": {
-    "**/node_modules": true
+    "**/.obsidian": true,
+    "**/node_modules": true,
+    "**/public": true,
+    "**/static": true,
+    "**/.cache": true
   },
   "files.watcherExclude": {
+    "**/.obsidian": true,
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",

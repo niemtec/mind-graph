@@ -67,3 +67,7 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+atoms/obsidian.css
+atoms/.obsidian/cache
+atoms/.obsidian/config
+atoms/.obsidian/workspace
