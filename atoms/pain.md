@@ -1,5 +1,5 @@
 # Pain
-Physical pain is a subjective sensation experienced when a signal travels through nerve fibers to the brain. The experience is different for every person and can differ in duration and intensity which makes it challenging to define and treat.
+Physical pain is a subjective sensation experienced when a signal travels through nerve fibers to the [[brain]]. The experience is different for every person and can differ in duration and intensity which makes it challenging to define and treat.
 
 ## Psychological Pain
 Mental pain often stems from a non-physical origin, sometimes argued to be an inescapable aspect of human existence.[^1] The experience of mental pain is far wider and subjective than physical pain as there are a wider range of possible causes, most of which are poorly understood.
