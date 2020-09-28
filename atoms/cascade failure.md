@@ -4,4 +4,4 @@ When one part fails, other parts must compensate for the failed component, this 
 
 ![cascade failure](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Networkfailure.gif/440px-Networkfailure.gif)
 
-See Also: [[walking-failure]], [Cascading structural failure of Hyatt Regency Walkway](https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse)
+See Also: [[walking failure]], [Cascading structural failure of Hyatt Regency Walkway](https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse)

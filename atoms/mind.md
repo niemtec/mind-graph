@@ -4,4 +4,4 @@ Mind is something very different from [[soul]]. The mind isn’t some mystical e
 
 The mind is a flow of subjective experiences, such as [[pain]], [[pleasure]], [[anger]] and [[love]]. Most up-to-date theories argue that sensations and [[emotions]] are fundamentally biochemical data-processing algorithms.
 
-See: [[consciousness]], [[narrating-self]]
+See: [[consciousness]], [[narrating self]]

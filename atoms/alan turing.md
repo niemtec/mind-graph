@@ -18,4 +18,4 @@ His openness to being a gay man came decades too early. His social life was a ch
 
 
 
-See: [[turing-complete-language]], [[turing-machine]], [[turing-test]]
+See: [[turing complete language]], [[turing machine]], [[turing test]]

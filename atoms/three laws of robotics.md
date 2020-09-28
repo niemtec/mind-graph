@@ -11,4 +11,4 @@ A robot must obey the orders given it by human beings except where such orders w
 
 A robot must protect its own existence as long as such protection does not conflict with the First or Second Law
 
-See: [[clarks-three-laws]], [[benevolence-of-ai]], [[greys-law]], [[greys-law]]
+See: [[clarks three laws]], [[benevolence of ai]], [[greys law]], [[greys law]]

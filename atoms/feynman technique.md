@@ -8,4 +8,4 @@ He boiled his technique down into 4 steps:
 4. Share it with people
 
 ---
-Also: [[learn-to-learn]], [[be-approximately-right]]
+Also: [[learn to learn]], [[be approximately right]]

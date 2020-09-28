@@ -16,4 +16,4 @@ If you really understand the theory of evolution, you accept that there is no [[
 
 ---
 
-Evolving systems exist in [[punctuated-equilibrium]].
+Evolving systems exist in [[punctuated equilibrium]].
