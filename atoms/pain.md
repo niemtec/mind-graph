@@ -6,7 +6,7 @@ Mental pain often stems from a non-physical origin, sometimes argued to be an in
 
 Psychological pain is often linked to [[emotions]] and the results of biochemical interactions in the [[brain]]. It can also be brought about by various mental disorders or mental phenomena.
 
-> A lasting, unsustainable, and unpleasant feeling resulting from negative appraisal of an inability or deficiency of the self.[^2]
+> "A lasting, unsustainable, and unpleasant feeling resulting from negative appraisal of an inability or deficiency of the self."[^2]
 
 
 [^1]:  Wille RSG. [On the capacity to endure psychic pain](doi:10.1080/01062301.2011.10592880.http://www.pep-web.org/document.php?id=spr.034.0023a). The Scandinavian Psychoanalytic Review. 2011;34:23–30. 

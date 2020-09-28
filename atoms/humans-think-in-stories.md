@@ -1,7 +1,6 @@
 # Humans Think in Stories
-> Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better.
-> 
-> (21 Lessons for the 21st Century)
+> "Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better."
+> (*21 Lessons for the 21st Century*)
 
 Homo sapiens is a storytelling animal, that thinks in stories rather than in numbers or graphs, and believes that the universe itself works like a story, replete with heroes and villains, conflicts and resolutions, climaxes and happy endings.
 

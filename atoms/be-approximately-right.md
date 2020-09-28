@@ -1,6 +1,6 @@
 # Be Approximately Right
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
-> — John W Turkey
+> "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise."
+> (*John W Turkey*)
 
 Consider the value of an answer along 2 axes: [[accuracy]] and [[precision]].
 

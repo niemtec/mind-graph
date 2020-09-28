@@ -1,5 +1,5 @@
 # Goodhart's Law
-> When a measure becomes a target, it ceases to be a good measure.
+> "When a measure becomes a target, it ceases to be a good measure."
 
 Goodheart's Law applies to feedback system with humans in the loop. (It doesn't apply to feed-forward systems.)
 

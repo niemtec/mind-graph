@@ -11,9 +11,8 @@ He did not think of himself as placed in a superior category by virtue of his br
 
 
 ## Turing's Homosexuality
-> Alan Turing was homosexual – a fact that he took no particular pains to hide, especially as he grew older. For a boy growing up in the 1920s and for a grown man in the subsequent few decades, being homosexual – especially if one was British and a member of the upper classes – was an unmentionable, terrible, and mysterious affliction.
-> 
-> (Alan Turing: The Enigma)
+> "Alan Turing was homosexual – a fact that he took no particular pains to hide, especially as he grew older. For a boy growing up in the 1920s and for a grown man in the subsequent few decades, being homosexual – especially if one was British and a member of the upper classes – was an unmentionable, terrible, and mysterious affliction."
+> (*Alan Turing: The Enigma*)
 
 His openness to being a gay man came decades too early. His social life was a charade. Like any homosexual man, he was living an imitation game, not in the sense of conscious play-acting, but by being accepted as a person that he was not.
 
