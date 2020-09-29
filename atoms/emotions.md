@@ -4,9 +4,9 @@ Emotions are complex psychological states which involve three distinct component
 3. A physiological response
 4. A behavioural (or expressive) response
 
-In 1972 Paul Eckman suggested that there are six basic emotions that are universal across all humans: [[fear]], [[disgust]], [[anger]], [[surprise]], [[happiness]], and [[sadness]]. (Later expanded to include [[embarrassment]], [[excitement]], [[contempt]], [[shame]], [[pride]], [[satisfaction]], and [[amusement]])
+In 1972 Paul Eckman suggested that there are six basic emotions that are universal across all humans: [[fear]], [[disgust]], [[anger]], [[surprise]], [[happiness]], and [[sadness]].
 
-In 1980s, Robert Plutchik introduced the [[wheel of emotions]] which demonstrated how different emotions can be combined or mixed together. He proposed eight primary emotional dimensions: [[happiness]] vs [[sadness]], [[anger]] vs [[fear]], [[trust]] vs [[disgust]], and [[surprise]] vs [[anticipation]]. These emotions can be combined to form others [[ie]] [[happiness]] + [[anticipation]] = [[excitement]].
+In 1980s, Robert Plutchik introduced the [[wheel of emotions]] which demonstrated how different emotions can be combined or mixed together. He proposed eight primary emotional dimensions: [[happiness]] vs [[sadness]], [[anger]] vs [[fear]], [[trust]] vs [[disgust]], and [[surprise]] vs [[anticipation]]. These emotions can be combined to form others [[ie]] `happiness + anticipation = excitement`.
 
 ## Subjective Experience
 Whilst the popular belief is that there are a number of basic universal emotions which are experienced by people all over the world regardless of background or culture. However, the act of experiencing emotion can be highly subjective, for example the experience of [[anger]] can vary greatly between individuals despite being a unviersally shared emotion.
