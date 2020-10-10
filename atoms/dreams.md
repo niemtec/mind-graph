@@ -1,5 +1,5 @@
 # Dreams
-Dreams introduce a state of [[temporal distortion]] - a type of [[time]] dilation. [[Time]] doesn't behave in the same manner in dream state as it does in reality, most often it is percieved as elongated.
+Dreams introduce a state of [[temporal distortion]] - a type of [[time]] dilation. [[time]] doesn't behave in the same manner in dream state as it does in reality, most often it is percieved as elongated.
 
 While your conscious mapping of [[time]] is lost during [[sleep]], at a non-conscious level, [[time]] continues to be cataloged by the [[brain]] with incredible [[precision]].
 

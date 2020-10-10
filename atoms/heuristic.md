@@ -3,6 +3,6 @@ A heuristic is a name given to an approach to a problem which employs a practica
 
 Referred to as a “rule of thumb”.
 
-In scenarios where finding optimal solutions is impractical or impossible ([[eg]] the [[travelling salesman problem]]), heuristic methods can be used to speed up the process of finding a satisfactory solution (a good enough answer).
+In scenarios where finding optimal solutions is impractical or impossible (e.g. the [[travelling salesman problem]]), heuristic methods can be used to speed up the process of finding a satisfactory solution (a good enough answer).
 
 Heuristics can be mental shortcuts that ease the cognitive load of making a decision.
