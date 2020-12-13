@@ -8,4 +8,4 @@ Physicists define time as the **progression of events from the past to the prese
 ## Reversing time
 The question of whether time is reversible is one of the biggest unresolved questions in science, one explanation is that the natural world follows the [[laws of thermodynamics]]. 
 
-The second law of thermodynamics states that within a closed system, the entropy of the system remains constant or increases. If the universe is considered to be a closed system, its entropy (degree of disorder) can never decrease. In other words, the universe cannot return to exactly the same state in which it was at an earlier point. Time cannot move backward.
+[[laws of thermodynamics#^3d22ca|The second law of thermodynamics]] states that within a closed system, the entropy of the system remains constant or increases. If the universe is considered to be a closed system, its [[Entropy|entropy]] (degree of disorder) can never decrease. In other words, the universe cannot return to exactly the same state in which it was at an earlier point. Time cannot move backward.

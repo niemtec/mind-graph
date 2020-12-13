@@ -17,5 +17,4 @@ He did not think of himself as placed in a superior category by virtue of his br
 His openness to being a gay man came decades too early. His social life was a charade. Like any homosexual man, he was living an imitation game, not in the sense of conscious play-acting, but by being accepted as a person that he was not.
 
 
-
 See: [[turing complete language]], [[turing machine]], [[turing test]]

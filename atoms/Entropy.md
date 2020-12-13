@@ -1,2 +1,2 @@
 # Entropy
-A thermodynamic property that is the measure of a system’s thermal energy per unit of temperature that is unavailable for doing useful work.
+A thermodynamic property that is the measure of a system’s thermal energy per unit of temperature that is unavailable for doing useful work. It is often interpreted as the degree of disorder or [[randomness]] in the system.
