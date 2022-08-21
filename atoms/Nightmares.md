@@ -1,0 +1,1 @@
+Nightmares are a subset of [[dreams]] which cause the dreamer to feel disturbing emotions such as [[fear]] and [[anxiety]]. They are typically caused by [[stress]], [[fear]], [[trauma]], emotional difficulties, [[illness]], or use of medication/drugs.

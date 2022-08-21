@@ -1,5 +1,3 @@
-# Formal System
-
 Formal Systems are ways of thinking about first order logic. The have four parts:
 
 1. **An alphabet**: These are the symbols which are used in the formal system to make formulas or sentences.

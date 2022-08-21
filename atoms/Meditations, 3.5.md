@@ -1,0 +1,2 @@
+> “Don’t act grudgingly, selfishly, without due diligence, or to be a contrarian. Don’t overdress your thought in fine language. Don’t be a person of too many words and too many deeds…. Be cheerful, not wanting outside help or the relief others might bring. A person needs to stand on their own, not be propped up.”
+> [[Marcus Aurelius]]

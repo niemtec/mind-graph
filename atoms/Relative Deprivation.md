@@ -1,0 +1,3 @@
+There exists a concept known as “relative deprivation” which can be commonly observed in the world of academia; top students convince everyone else to stop trying in an attempt to defend their position.
+
+The reason for this is that self-comparison determines effort which means that if we feel like there is little point in trying to achieve a particular goal, we will not put the effort in. In the world of academia it doesn’t matter that you are one of the smartest students; students throttle their effort based on where they have ranked instead of their capability.

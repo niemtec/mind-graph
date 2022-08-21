@@ -1,4 +1,3 @@
-# Atomic
 An atomic unit is the smallest indivisible unit in a given context. It represents the most fundamental part of a greater whole.
 
 [[evergreen notes]] are meant as atomic units because they are about one thing. The aim of an atomic note is to capture the entirety of that one thing.

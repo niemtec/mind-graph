@@ -1,0 +1,1 @@
+A model of [[Time Perception]] which suggests that the time of an event is inferred from information about relations between the event in question and other events whose date/time is known.

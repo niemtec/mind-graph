@@ -1,6 +1,4 @@
-# Alan Turing
-
-He was shy, hesitant and with a high-pitched voice – not exactly stuttering, but hesitating, as if waiting for some laborious process to translate his thoughts into the form of human speech.
+ He was shy, hesitant and with a high-pitched voice – not exactly stuttering, but hesitating, as if waiting for some laborious process to translate his thoughts into the form of human speech.
 
 He was not interested in organising anyone, and did not wish to be organised by anyone else. He had escaped from one totalitarian system, and had no yearning for another.
 

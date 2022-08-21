@@ -1,10 +1,12 @@
-# Sleep
+## Phases of Sleep
+**Stage 1**: Light sleep. Slow eye movement and reduced muscle activity. (Forms about 5% of total sleep)
 
-The "recycle rate" within the brain of a human being is about 16 hours. After being awake for 16 hours, the [[brain]] beginds to fail. In order to address that, humans need more than 7 hours of [[sleep]] each night to maintain sufficient cognitive performance.
+**Stage 2**: Eye movement stops and brain waves become slower, with occasional bursts of rapid waves called sleep spindles. (Forms about 55% of total sleep)
 
-After 10 days of just 7 hours of [[sleep]], the [[brain]] is as dysfunctional as it would be after going without [[sleep]] for 24 hours.
+**Stage 3**: Extremely slow, [[delta waves]] begin to appear, interspersed with smaller, faster waves. (Forms about 5% of total sleep)
 
-Three full nights of recovery [[sleep]] (i.e., more nights than a weekend) are insufficient to restore performance back to normal levels after a week of short sleeping.
+**Stage 4**: The brain produces [[delta waves]] almost exclusively. It is difficult to wake someone during stages 3 and 4, known as [[deep sleep]]. There is no eye movement or muscle activity. 
+People awakened while in deep sleep do not adjust immediately and often feel disoriented for several minutes after waking up. (Forms about 15% of total sleep)
 
-> "Poor [[sleep]] quality therefore increases the risk of [[cancer]] development and, if cancer is established, provides a virulent fertilizer for its rapid and more rampant growth."
-> (*Why We Sleep: The New Science of Sleep and Dreams*)
+**Stage 5**: The rapid eye movement ([[REM]]) stage. Breathing becomes more rapid, irregular, and shallow. Eyes jerk rapidly in various directions and limb muscles become temporarily paralysed. Heart rate increases, blood pressure rises, and males develop penile erections.
+When people awaken during [[REM]] sleep, they often describe bizarre and illogical tales — [[dreams]]. (Forms about 25% of total sleep)

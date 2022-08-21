@@ -1,4 +1,3 @@
-# Hocus Pocus
 The story goes that a priest held high a piece of bread and exclaimed ‘Hoc est corpus!’ – ‘This is the body!’ – and the bread supposedly became the flesh of Christ.
 
 In the minds of the illiterate peasants, who did not speak Latin, ‘Hoc est corpus!’ got garbled into ‘Hocus-pocus!’ and thus was born the powerful spell that can transform a frog into a prince, and a pumpkin into a carriage.

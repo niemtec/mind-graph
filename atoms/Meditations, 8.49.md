@@ -1,0 +1,2 @@
+> “Don’t tell yourself anything more than what the initial impressions report. It’s been reported to you that someone is speaking badly about you. This is the report—the report wasn’t that you’ve been harmed. I see that my son is sick—but not that his life is at risk. So always stay within your first impressions, and don’t add to them in your head—this way nothing can happen to you.”
+> [[Marcus Aurelius]]

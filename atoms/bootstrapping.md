@@ -1,5 +1,3 @@
-# Bootstrapping
-
 Bootstrapping is the process of **getting better at getting better**. Things that bootstrap exhibit exponential improvement.
 
 [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) coined the term bootstrapping to describe the strategy at his [Augmentation Research Center](https://en.wikipedia.org/wiki/Augmentation_Research_Center), of focusing on building tools for thinking powerfully, and building tools for making tools.

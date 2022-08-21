@@ -1,4 +1,3 @@
-# Formal Language
 A formal [[language]] is recursively defined set of strings on a fixed alphabet. Some parts of it can correspond to natural languages like English.
 
 ## Terms

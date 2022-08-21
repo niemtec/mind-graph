@@ -1,4 +1,3 @@
-# Emotions
 Emotions are complex psychological states which involve three distinct components:
 1. A subjective experience
 3. A physiological response

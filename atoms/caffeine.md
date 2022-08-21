@@ -1,4 +1,4 @@
 # Caffeine
-Caffeine has an  average [[half-life]] of 5-7 hours, the levels of caffeine peak approximately 30 minutes after oral administration.
+Caffeine has an average [[half-life]] of 5-7 hours. Aging can affect the speed of caffeine clearance, the older we are the longer it takes our brain and body to remove it. (This means that the older we are, the more sensitive we become to the [[sleep]]-disturbing effects of caffeine).
 
-The rate of caffeine clearance is affected by age; the older you are the longer it takes your body to filter out the caffeine from your system. As we age, we become more sensitive to caffeine's sleep-disturbing influence.
+> Let’s say that you have a cup of coffee after your evening dinner, around 7:30 p.m. This means that by 1:30 a.m., 50 percent of that caffeine may still be active and circulating throughout your brain tissue. In other words, by 1:30 a.m., you’re only halfway to completing the job of cleansing your brain of the caffeine you drank after dinner. 

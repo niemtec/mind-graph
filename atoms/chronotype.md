@@ -1,5 +1,5 @@
-# Chronotype
+A manifestation of a persons [[circadian rhythm]] which encapsulates the tendency to be awake at a particular period in the 24 hour day cycle.
 
-A chronotype is the type of wakefulness pattern that a person can have. People typically divide into night owls and morning larks.
+A person's owlness or larkness is also known as their chronotype, it is strongly determined by their genetics and can be affected by their environment. 
 
-It is genetially determined, so it's likely that one (or both) of your parents is a night owl if you are one yourself.
+Typically modern world is better suited for morning larks due to the socioeconomic structure of work industry, as a result night owls might struggle to perform well in certain roles.

@@ -1,5 +1,3 @@
-# Evolution
-
 Evolution is a behaviour that emerges in any system that has:
 1. [[mutation]]
 2. [[heredity]]

@@ -1,0 +1,1 @@
+Biphasic [[sleep]] is a pattern of [[sleep]] in which a person sleeps in two segments per day. They may [[sleep]] longer at night, and then take a nap during the day. Or, they may split their nighttime [[sleep]] up into two segments. Biphasic [[sleep]] is also referred to as segmented or bimodal [[sleep]].
